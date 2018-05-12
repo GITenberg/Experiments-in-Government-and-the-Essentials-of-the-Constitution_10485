@@ -1,5 +1,8 @@
 _repo: Experiments-in-Government-and-the-Essentials-of-the-Constitution_10485
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Root, Elihu
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3555
     wikipedia: http://en.wikipedia.org/wiki/Elihu_Root
 description: 1. Experiments in government -- 2. The essentials of the Constitution.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10485#Experiments-in-Government-and-the-Essentials-of-the-Constitution
 gutenberg_bookshelf: United States
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
